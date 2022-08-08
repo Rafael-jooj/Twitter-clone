@@ -25,7 +25,7 @@ const ProfilePage: React.FC = () => {
             Palmas, Brasil
           </li>
           <li>
-            <CakeIcon />
+            <CakeIcon/>
             Nascido(a) em 08 de novembro de 2001
           </li>
         </ul>
